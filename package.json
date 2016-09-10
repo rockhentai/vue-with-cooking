@@ -1,0 +1,42 @@
+{
+  "name": "vue-with-cooking",
+  "version": "1.0.0",
+  "description": "用cooking搭建一个vue的开发环境",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockhentai/vue-with-cooking.git"
+  },
+  "keywords": [
+    "vue",
+    "cooking"
+  ],
+  "author": "rockhentai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockhentai/vue-with-cooking/issues"
+  },
+  "homepage": "https://github.com/rockhentai/vue-with-cooking#readme",
+  "devDependencies": {
+    "cooking": "^1.0.0-rc.2"
+  },
+  "dependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "css-loader": "^0.25.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "html-loader": "^0.4.3",
+    "html-webpack-plugin": "^2.22.0",
+    "json-loader": "^0.5.4",
+    "postcss": "^5.2.0",
+    "postcss-loader": "^0.13.0",
+    "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
+}
